@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dedsec-24&label=Profile%20views&color=0e75b6&style=flat" alt="dedsec-24" /> </p>
 
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **Shukry123.m@gmail.com**
 
