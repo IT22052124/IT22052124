@@ -29,15 +29,11 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dedsec-24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=IT22052124&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/IT21221064/IT21221064/output/github-contribution-grid-snake.svg" />
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/IT22052124/IT22052124/output/github-contribution-grid-snake-dark.svg)
   
-  <br/><br/><br/>
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
