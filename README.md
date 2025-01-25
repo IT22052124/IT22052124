@@ -4,7 +4,7 @@
 
   
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IT22052124&color=green" alt="Profile Views Badge">
+  <img src="https://komarev.com/ghpvc/?username=IT22052124&color=blueviolet" alt="Profile Views Badge">
 </div>
 
 
