@@ -2,9 +2,7 @@
 <h3 align="center">An undergraduate student at SLIIT from Sri Lanka</h3>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dedsec-24&icon=2&color=4" alt="Visit Count">
-  </a>
+  ![](https://komarev.com/ghpvc/?username=IT22052124&color=green)
 </p>
 
 - 🌱 I’m currently learning **React Native**
