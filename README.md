@@ -3,7 +3,10 @@
 
 
   
-![](https://komarev.com/ghpvc/?username=IT22052124&color=green)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IT22052124&color=green" alt="Profile Views Badge">
+</div>
+
 
 
 - 🌱 I’m currently learning **React Native**
