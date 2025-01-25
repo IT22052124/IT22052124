@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm FA Sukry (DedSec)</h1>
 <h3 align="center">An undergraduate student at SLIIT from Sri Lanka</h3>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=IT22052124&color=green)
-</p>
+
+  
+![](https://komarev.com/ghpvc/?username=IT22052124&color=green)
+
 
 - 🌱 I’m currently learning **React Native**
 
