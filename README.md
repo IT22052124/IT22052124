@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm FA Sukry (DedSec)</h1>
-<h3 align="center">An undergraduate student at SLIIT from Sri Lanka</h3>
-
 <img align="right" src="https://komarev.com/ghpvc/?username=IT22052124&color=blueviolet" alt="Profile Views Badge">
 
 <h1 align="center">
