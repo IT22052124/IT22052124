@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **AI / ML **
+- 🌱 I’m currently learning **AI / ML**
 
 - 📫 How to reach me **Shukry123.m@gmail.com**
 
