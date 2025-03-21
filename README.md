@@ -1,10 +1,23 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=IT22052124&color=blueviolet" alt="Profile Views Badge">
+<img align="right" src="https://komarev.com/ghpvc/?username=IT22052124&color=blueviolet" alt="Profile Views Badge"><br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shukry....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+
+<h1 align="center"> Hi 👋🏻, I'm Shukry </br> 
 </h1>
+
+<p align="center">I love creating new things ⚡</p>
+<p align="center">Turning imagination into reality 🚀</p>
+<p align="center">
+<a href="https://x.com/Shukry_7__" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/shukry7/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/shukry_77/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a><a href="https://www.facebook.com/shukry.77/" target="_blank"><img alt="" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=Facebook&logoColor=1877F2" style="vertical-align:center" /></a>
+<a href="https://leetcode.com/u/DedSec-24/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?style=for-the-badge&logo=Leetcode&logoColor=f09a1a" style="vertical-align:center" /></a></p>
+
+
+
+
 
 
 
