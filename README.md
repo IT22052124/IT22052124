@@ -44,8 +44,10 @@
  ## 🏆 GitHub Trophies
  ![](https://github-profile-trophy.vercel.app/?username=IT22052124&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 -->
-## Feeding...
+
+<!--## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/IT22052124/IT22052124/output/github-contribution-grid-snake-dark.svg)
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IT22052124/IT22052124/output/pacman-contribution-graph-dark.svg">
