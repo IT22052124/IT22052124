@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Download SVG graph
         run: |
-          curl -L "https://github-readme-activity-graph.vercel.app/graph?username=it22052124&theme=high-contrast" -o graph.svg
+          curl -L "https://github-readme-activity-graph.vercel.app/graph?username=it22052124&bg_color=000000&color=ffffff&line=e7e7e7&point=e7e7e7&area=true&hide_border=true" -o graph.svg
     
       - name: Install librsvg (for rsvg-convert)
         run: |
