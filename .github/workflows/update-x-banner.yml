@@ -12,7 +12,12 @@ jobs:
       - name: Download SVG graph
         run: |
           curl -L "https://github-readme-activity-graph.vercel.app/graph?username=it22052124&theme=high-contrast" -o graph.svg
-
+    
+      - name: Install librsvg (for rsvg-convert)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin
+          
       - name: Convert SVG to PNG 
         run: |
           rsvg-convert -w 1500 -h 500 -f png graph.svg -o banner.png
