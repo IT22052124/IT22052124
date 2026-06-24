@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **AI / ML**
 
-- 📫 How to reach me **Shukry123.m@gmail.com**
+- 📫 How to reach me **faik.sukry@gmail.com**
 
 - ⚡ Fun fact **love exploring new technologies and building innovative projects in my free time!**
 
